@@ -1,13 +1,13 @@
 {
     "manifest_version": 2,
    
-    "name": "GUC CMS Video downloader enable",
+    "name": "GUC CMS Enhancer",
     "version": "0.1.0",
-    "description": "Enable a download button of videos available on GUC CMS",
+    "description": "Enhance GUC CMS by adding download button to videos and rename downloaded content",
    
     "content_scripts": [{
       "js": ["content.js"],
-      "matches": ["https://cms.guc.edu.eg/apps/student/CourseViewStn.aspx?id=*"]
+      "matches": ["https://cms.guc.edu.eg/apps/student/Course*"]
     }]
    
   }

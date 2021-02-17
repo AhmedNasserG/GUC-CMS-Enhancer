@@ -1,9 +1,13 @@
-# GUC CMS Video downloader
+# GUC CMS Enhancer
 
 ## What does it simply do ?
 
-It is a simple chrome extension that add a download button to videos available on GUC CMS
+It is a simple Chrome extension that add some necessary features to GUC CMS to make it easy to deal with it
 
+
+## Features
+1. Add Download button to videos
+2. Rename downloaded files
 ## How to use ?
 
 1. Run this command to download files 
@@ -18,4 +22,6 @@ or simply download zipped files
 5. Select CMS-Video-dl-enable file
 
 Nothing other needed just open CMS and a download button will appears
+
+## If you found it useful star the project  
 
