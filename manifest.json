@@ -2,7 +2,7 @@
     "manifest_version": 2,
    
     "name": "GUC CMS Enhancer",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Enhance GUC CMS by adding download button to videos and rename downloaded content",
    
     "content_scripts": [{
